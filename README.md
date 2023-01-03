@@ -16,5 +16,9 @@ You can customize the tool to fit your specific link search needs by modifying t
 
 ## Note
 
-- You may need to enable access for less secure apps or create and use an app password for certain email servers (e.g. Gmail).
-- You may need to allow your mail client to access your mailbox for certain email servers (e.g. Yandex).
+- ProtonMail: You will need a premium account to use ProtonMail.
+- ThunderBird: You can use ThunderBird as an alternative email client.
+- Hotmail/Outlook: The IMAP4 server for Hotmail and Outlook is "outlook.office365.com".
+- Gmail: The IMAP4 server for Gmail is "imap.gmail.com". You will need to create and use an app password.
+- Yahoo: The IMAP4 server for Yahoo is "imap.mail.yahoo.com". You will need to create and use a third-party app password.
+- Yandex: The IMAP4 server for Yandex is "imap.yandex.com.tr". You will need to allow your mail client to access your mailbox.
